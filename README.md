@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello world! I am currently a student at GRCC studying Artificial Intelligence.
 
 <!--
 **jwbvideo/jwbvideo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
